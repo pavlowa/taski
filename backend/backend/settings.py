@@ -15,7 +15,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['158.160.67.65', '127.0.0.1', 'localhost', 'tasklist.sytes.net']
 
-
 # Application definition
 
 INSTALLED_APPS = [
